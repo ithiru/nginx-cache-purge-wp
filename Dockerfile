@@ -1,4 +1,4 @@
-FROM emcniece/nginx-cache-purge:1.13-alpine
+FROM ithiru/nginx-cache-purge:v1.17.8
 MAINTAINER Eric McNiece "emcniece@gmail.com"
 
 COPY default.conf /etc/nginx/conf.d/default.conf

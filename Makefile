@@ -1,6 +1,6 @@
-# Creates a base image for emcniece/nginx-cache-purge-wp
+# Creates a base image for ithiru/nginx-cache-purge-wp
 
-NAMESPACE := emcniece
+NAMESPACE := ithiru
 PROJECT := nginx-cache-purge-wp
 PLATFORM := linux
 ARCH := amd64
