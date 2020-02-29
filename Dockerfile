@@ -1,4 +1,4 @@
-FROM ithiru/nginx-cache-purge:v1.17.8
+FROM ithiru/nginx-with-cache-purge:v1.17.8
 MAINTAINER Eric McNiece "emcniece@gmail.com"
 
 COPY default.conf /etc/nginx/conf.d/default.conf
